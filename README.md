@@ -29,3 +29,33 @@ To run the Gemini Clone project locally, follow these steps:
    ```bash
    git clone https://github.com/yourusername/gemini-clone.git
    cd gemini-clone
+
+2. **Install Dependencies**
+   Ensure you have Node.js installed. Install the project dependencies using:
+   
+   ```bash
+   npm install
+
+3. **Set Up Environment Variables**
+   Create a .env file in the root directory of the project and add your API key. The .env file should look like this:
+
+   ```bash
+   VITE_REACT_APP_GOOGLE_GEN_AI_API_KEY=your_api_key_here
+
+  Replace your_api_key_here with your actual API key from Google Generative AI.
+  
+4. **Start the Development Server**
+   Run the development server with the following command:
+
+   ```bash
+   npm run dev
+The application will be available at http://localhost:5173.
+
+## Usage
+
+- **Sidebar**: Click on the menu icon to expand or collapse the sidebar. Use the sidebar to access recent prompts and navigate to different sections of the app.
+- **Main Area**: Enter a prompt in the input field and click the send icon to generate content. The results will be displayed in the main content area.
+- **Settings**: Adjust settings and preferences through the sidebar menu.
+
+  
+   
