@@ -31,12 +31,14 @@ To run the Gemini Clone project locally, follow these steps:
    cd gemini-clone
 
 2. **Install Dependencies**
+   
    Ensure you have Node.js installed. Install the project dependencies using:
    
    ```bash
    npm install
 
 3. **Set Up Environment Variables**
+   
    Create a .env file in the root directory of the project and add your API key. The .env file should look like this:
 
    ```bash
@@ -45,6 +47,7 @@ To run the Gemini Clone project locally, follow these steps:
   Replace your_api_key_here with your actual API key from Google Generative AI.
   
 4. **Start the Development Server**
+   
    Run the development server with the following command:
 
    ```bash
@@ -57,5 +60,9 @@ The application will be available at http://localhost:5173.
 - **Main Area**: Enter a prompt in the input field and click the send icon to generate content. The results will be displayed in the main content area.
 - **Settings**: Adjust settings and preferences through the sidebar menu.
 
-  
+## Troubleshooting
+
+- **API Key Issues**: Ensure that your API key is correctly set in the `.env` file and that it is valid.  
+- **Loading Issues**: Check the browser console for errors and ensure that all dependencies are correctly installed.
+
    
