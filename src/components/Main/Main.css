@@ -27,7 +27,7 @@
     font-weight: 500px;
 }
 .main .greet span{
-    background: -webkit-linear-gradient(16deg,#4b90ff,#ff5546);
+    background: -webkit-linear-gradient(16deg,#2a4268,#46c0ff);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
@@ -58,7 +58,7 @@
     font-size: 17px;
 }
 .main .card:hover{
-    background-color: #dfe4ea;
+    background-color: #b7babf;
 }
 .main-bottom {
     position: absolute;
@@ -133,7 +133,7 @@
 border-radius: 4px;
 border: none;
 background-color: #f6f7f8;
-background: linear-gradient(to right,#b1d5ee,#c953e98a,#9ed7ff);
+background: linear-gradient(to right,#c9d6df,#ea69748a,#a8dbff);
 background-size: 800px 50px;
 height: 20px;
 animation: loader 4s infinite linear;
