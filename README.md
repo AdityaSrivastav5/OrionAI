@@ -1,10 +1,10 @@
-# Gemini Clone
+# OrionAI
 
-Gemini Clone is a web application that leverages Google's Gemini Generative AI model to provide users with a platform for generating and interacting with AI-generated content. It features an intuitive sidebar for navigation and a dynamic main content area for displaying results.
+OrionAI is a web application that leverages Google's Gemini Generative AI model to provide users with a platform for generating and interacting with AI-generated content. It features an intuitive sidebar for navigation and a dynamic main content area for displaying results.
 
 ## Live Demo
 
-Explore the live demo of Gemini Clone at [Gemini Clone Live Demo](https://gimini-alter.netlify.app/).
+Explore the live demo of OrionAI at [OrionAI Live Demo](https://gimini-alter.netlify.app/).
 
 ## Features
 
@@ -22,7 +22,7 @@ Explore the live demo of Gemini Clone at [Gemini Clone Live Demo](https://gimini
 
 ## Installation
 
-To run the Gemini Clone project locally, follow these steps:
+To run the OrionAI project locally, follow these steps:
 
 1. **Clone the Repository**
 
